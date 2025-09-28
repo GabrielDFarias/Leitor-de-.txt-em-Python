@@ -22,6 +22,3 @@ Ele abre um arquivo de texto, conta o número total de **palavras** e **caracter
 ## 🛠️ Tecnologias
 - [Python 3.x](https://www.python.org/)
 
----
-
-## 📂 Estrutura do Projeto
