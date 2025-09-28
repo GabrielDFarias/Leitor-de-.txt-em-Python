@@ -15,6 +15,7 @@ Ele abre um arquivo de texto, conta o número total de **palavras** e **caracter
 - Ler qualquer arquivo `.txt`
 - Contar quantidade de caracteres
 - Contar quantidade de palavras
+- Contar quantidade de um caracter
 - Mostrar estatísticas no console
 
 ---
